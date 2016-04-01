@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Deepest Fear
-subtitle: is not that we are inadequate
+subtitle: is that we are powerful beyond measure.
 date: 2014-06-10T12:00:00.000Z
 author: Start Bootstrap
 header-img: img/post-bg-01.jpg
