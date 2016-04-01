@@ -2,8 +2,8 @@
 layout: post
 title: Our Deepest Fear
 subtitle: is that we are powerful beyond measure.
-date: 2014-06-10T12:00:00.000Z
-author: Start Bootstrap
+date: 2016-01-02T08:11:00.000Z
+author: Tom
 header-img: img/post-bg-01.jpg
 ---
 
