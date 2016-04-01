@@ -4,7 +4,7 @@ title: Our Deepest Fear
 subtitle: is that we are powerful beyond measure.
 date: 2016-01-02T08:11:00.000Z
 author: Tom
-header-img: 'http://bataviasbest.org/wp-content/uploads/2015/12/basketball-2.jpg'
+header-img:
 ---
 
 
